@@ -1,0 +1,14 @@
+title: Web Development Books
+booktasks:
+  - title: Fancy Form Design            
+  - title: Practical Ruby Gems
+  - title: Developing Facebook Platform Applications with Rails
+  - title: Bulletproof Ajax
+    completed: true
+    note: |
+      Slightly outdated now but still highly recommended. 
+      Jeremy Kieth is an awesome writer; if your having trouble grasping Ajax, DOM Scripting etc then read one of his books, he makes anything he touches clear.    
+  - title: Pro JavaScript Design Patterns
+  - title: Pro JavaScript Techniques
+  - title: Secrets of the JavaScript Ninja 
+  - title: DailyJS: Let's Make a Framework: Free eBook
