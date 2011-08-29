@@ -6,5 +6,5 @@ I have distinct neurological differences from the majority of the human populati
 
 # License. 
 
-Unless stated otherwise the Copyright is mine all rights reserver. This is not because I've any intents of controlling what you do with my work, I just don't want to be locked into a license. 
+Unless stated otherwise the Copyright is mine, All Rights Reserved. This is not because I've any intents of controlling what you do with my work, I just don't want to be locked into a license. 
 Drop me an e-mail (bookworm.productions@gmail.com) if you find something you're interested in; that you'd like to use, talk, about, steal, borrow etc.
