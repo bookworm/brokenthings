@@ -1,0 +1,17 @@
+title: Ideas for Apps & Games.
+ideas:
+  - title: IE Shooting Game   
+    note: |
+       What the title says, a game where you shoot IE. Coded this up in flash awhile back but lost the code. 
+       Its a quick code if I ever get a free day. Probably would go viral in the dev/design community.      
+   - title: Build a browser for developers  
+     note: |
+       Potentially vim inspired as well.
+     documents:
+       - link: http://jonoscript.wordpress.com/2010/01/20/retrospective-what-we-learned-from-ubiquity/      
+       - link: http://acko.net/blog/on-termkit     
+    - title: MAC Download manager that auto-extracts and imports media.
+      note: |
+        I'm not really sure why no one has done this yet. 
+        There is one specifically for mp3 + iTunes, but one with flexible media handlig isn't really available.
+        Shouldn't be that hard to do.
