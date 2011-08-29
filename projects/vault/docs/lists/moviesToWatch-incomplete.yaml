@@ -49,7 +49,7 @@ movietasks:
   - title: The Goods: Live Hard, Sell Hard in
   - title: Jay and Seth Vs. the Apocalypse 
   - title: The Tillman Story   
-    - completed: true
+    completed: true
   - title: Adventures of a Teenage Dragonslayer
   - title: Two Lovers 
   - title: Solitary Man
@@ -63,7 +63,7 @@ movietasks:
   - title: Boiler Room
   - title: The Loved Ones
   - title: Wild Target   
-    - completed: true  
+    completed: true  
   - title: Just Go With It
   - title: Alan Turing Documentary
   - title: Sleuth
@@ -99,7 +99,7 @@ movietasks:
   - title: Art & Copy. Documentary
   - title: The Wrestler    
   - title: Ong Bak    
-    - completed: true
+    completed: true
   - title: Dogtooth
   - title: All American Orgy
   - title: Fast Times at Ridgement High
@@ -129,7 +129,7 @@ movietasks:
   - title: Top Secret Rosies
   - title: Cropsey
   - title: Red Riding Hood (2011) 
-    - completed: true
+    completed: true
   - title: CashBack
   - title: Kaboom (2011)
   - title: Major League
@@ -140,7 +140,7 @@ movietasks:
   - title: The Packing Lot Movie
   - title: The People vs Larry Flynt
   - title: Dylan Dog 
-    - completed: true
+    completed: true
   - title: Hard Breakers
   - title: History of the World: Part 1
   - title: The Flying Scotsman
@@ -150,7 +150,7 @@ movietasks:
   - title: The War Against Cliche
   - title: Women In Trouble
   - title: Hanna (2011)           
-    - completed: true
+    completed: true
   - title: The Road to Wellville
   - title: Homework (2011)
   - title: The Anniversary Party
@@ -166,10 +166,10 @@ movietasks:
   - title: Delicatessen
   - title: Amélie
   - title: Insidious (2010)            
-    - completed: true
+    completed: true
   - title: Water for Elephants
   - title: The Beaver  
-    - completed: true
+    completed: true
   - title: Stigmata
   - title: My Dinner with Andre
   - title: Glenn the Flying Robot  
