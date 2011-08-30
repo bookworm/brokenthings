@@ -42,7 +42,7 @@ This is where pragmatism comes in. You shouldn't be wedded to any particular tec
 and experience base to allow you to choose good solutions in particular situations. Your background stems from an
 understanding of the basic principles of computer science, and your experience comes from a wide range of practical projects. 
 
-@ Theory and practice combine to make you strong.
+# Theory and practice combine to make you strong.
 
 You adjust your approach to suit the current circumstances and environment. You judge the relative importance of all the
 factors affecting a project and use your experience to produce appropriate solutions. And you do this continuously as the
