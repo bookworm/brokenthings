@@ -1,0 +1,6 @@
+Does anyone else find it jsut completely irritating how the multitude of frameworks is bashed as a bad thing? I read it time and time again on places like forrst etc "I'm tired of all the frameworks". Only in someone's delusional mind is too many open source frameworks a bad thing.  
+
+
+In the same paragraph I'll also hear people say "I don't use frameworks I code my own.". Thats exactly why there is so many frameworks you dumbass. The reason why there is so many frameworks is because people like to; 1. learn on their own how to develop a framework and 2. Develop a framework that works exactly the way they want. What I find really ironic is months from that comment that same person will probably be releasing their own framework or fork of a framework and the chain will start again.
+
+No one is forcing anyone to use a framework. The libertarian in me gets so angry when people get upset over too much of a good thing. If your overwhelmed by too many choices thats your problem not the developers of the frameworks. Develop on .NET if you hate too many frameworks, the FOSS community doesn't need you.
