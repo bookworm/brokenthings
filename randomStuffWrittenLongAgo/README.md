@@ -1,0 +1,1 @@
+Most of the stuff in this folder was written before I graduated highschool. I've deleted 99% of the stuff from that time, but kept a few of the gems.
