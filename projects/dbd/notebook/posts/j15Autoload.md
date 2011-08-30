@@ -1,7 +1,9 @@
 type: default  
 status: public
-intro: |
-  Ever wanted to override the Joomla! classes that Joomla! wont let you. You can force bypass Joomla! and force the overrides.  
+intro: |  
+
+Ever wanted to override the Joomla! classes that Joomla! wont let you. You can force bypass Joomla! and force the overrides.    
+   
 body: |    
 
 Back when Simplex was called ThemeMagic I was overriding the JModuleHelper class; problem was if a component or module tried to use this class before the template framework php would throw "class already declared" errors. 
