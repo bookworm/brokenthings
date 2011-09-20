@@ -10,7 +10,7 @@
     Robin Williams plays a schizophrenic gorilla that escapes & runs naked through central park. 
     Well, at least thats how I remember it. A great & hairy film.
   */
-  var AnimalWithConstipationandBadContext, HealthyAnimal, animal1, animal2, bob;
+  var AnimalWithConstipationandBadContext, HealthyAnimal, animal1, animal2;
   var __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
   AnimalWithConstipationandBadContext = (function() {
     function AnimalWithConstipationandBadContext() {}
@@ -31,15 +31,15 @@
     return HealthyAnimal;
   })();
   animal1 = new HealthyAnimal;
-  console.log(animal1.shit());
   animal2 = new AnimalWithConstipationandBadContext;
-  console.log(animal2.shit());
-  bob = function() {
-    return console.log(animal2.shit());
-  };
-  bob();
-  $("#elem").click(__bind(function(event) {
-    console.log('clicked');
-    return console.log(animal2.shit());
+  $(document).ready(__bind(function() {
+    return $("#elem").addClass('bob');
+  }, this));
+  $(document).ready(__bind(function() {
+    return $("#elem").click(__bind(function(event) {
+      this.crap_level = 5;
+      console.log('clicked');
+      return console.log(animal2.shit());
+    }, this));
   }, this));
 }).call(this);

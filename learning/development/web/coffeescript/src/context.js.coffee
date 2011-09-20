@@ -22,10 +22,10 @@ class HealthyAnimal
     "My current crap backup is #{@crap_level}"
 
 animal1 = new HealthyAnimal
-console.log(animal1.shit())
+#console.log(animal1.shit())
 
 animal2 = new AnimalWithConstipationandBadContext
-console.log(animal2.shit())
+#console.log(animal2.shit())
 
 # Well shit that returns correctly.
 # I'm guessing I need to change context by placing the bad context inside another function. 
@@ -51,8 +51,27 @@ console.log(animal2.shit())
 # This actually makes sense though because we're actually calling the click. click.
 # We need to pass it a callback.
 
-$("#elem").click (event) => 
-  console.log('clicked')    
-  console.log(animal2.shit()) 
+# $("#elem").click (event) => 
+#   console.log('clicked')    
+#   console.log(animal2.shit()) 
 
-# Nothing? Seriously? 
+# Nothing? Seriously?  
+# Lets makesure we got this elem slector working
+
+# $("#elem").addClass('bob')
+
+# No classed added hmm.
+# I'm guessin its because jQuery is not loaded. We need to wrap everything ina dom.ready
+
+$(document).ready =>  
+  $("#elem").addClass('bob')    
+
+# And bingo. Now lets wrap up our click event.
+ 
+$(document).ready =>  
+  $("#elem").click (event) => 
+    @crap_level = 5     
+    console.log('clicked')    
+    console.log(animal2.shit())  
+
+# Now I've proven I've no idea what I'm doing when it comes to context. Time to hit google. 
