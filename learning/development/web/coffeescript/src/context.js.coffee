@@ -13,16 +13,46 @@ class AnimalWithConstipationandBadContext
   crap_level: 9       
   
   shit: ->
-    alert "My current crap backup is #{@crap_level}"
+    "My current crap backup is #{@crap_level}"
     
 class HealthyAnimal
   crap_level: 4
 
   shit: =>
-    alert "My current crap backup is #{@crap_level}"
+    "My current crap backup is #{@crap_level}"
 
 animal1 = new HealthyAnimal
-animal1.shit
+console.log(animal1.shit())
 
 animal2 = new AnimalWithConstipationandBadContext
-animal2.shit
+console.log(animal2.shit())
+
+# Well shit that returns correctly.
+# I'm guessing I need to change context by placing the bad context inside another function. 
+# Just like what happens in js callbacks.  
+
+# Just for grins & murders lets chekc it anormal function first.
+# bob = ->
+#    console.log(animal2.shit())
+# 
+# bob()   
+
+# And as anticipated that did absolutely fucking nothing. I'm begining to feel retarded lets try some actuall callbacks.
+# A quick google search turns up [the coffeescript cookbook](http://coffeescriptcookbook.com/chapters/jquery/callback-bindings-jquery)
+
+# I think the easiest way to do callbacks is just a dom event. 
+# Sidenote anyone else code listening to Paramore & Blink-182 in the same playlist?   
+# Its really strange to go from singing lyrics of Misery Business to thinking out loud in coffeescript.         
+# Note: I don't sing along to Misery Business, I skip it just like very Taylor Swift song. Really I do.
+
+# $('#elem').click(console.log(animal2.shit()))
+
+# This does some wierd shit and appears to be called instantly.    
+# This actually makes sense though because we're actually calling the click. click.
+# We need to pass it a callback.
+
+$("#elem").click (event) => 
+  console.log('clicked')    
+  console.log(animal2.shit()) 
+
+# Nothing? Seriously? 

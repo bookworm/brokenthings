@@ -9,7 +9,8 @@ lies somewhere else not there. The coffescript site doesn't try to be the commun
 I don't know if its egos that drives that way of doing things or not. Enough rambling...
 
 https://github.com/autotelicum/Smooth-CoffeeScript
-http://arcturo.github.com/library/coffeescript/
+http://arcturo.github.com/library/coffeescript/      
+http://coffeescriptcookbook.com
 
 On a side not I have a fucking terrible time spelling coffee. Dyslexia, its a bitch only stopped by the power of auto
 spellcheckers.  
