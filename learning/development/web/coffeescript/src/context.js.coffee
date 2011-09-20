@@ -75,3 +75,4 @@ $(document).ready =>
     console.log(animal2.shit())  
 
 # Now I've proven I've no idea what I'm doing when it comes to context. Time to hit google. 
+# Will return to this later. Some things ar best left until you run into a problem.
