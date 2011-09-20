@@ -27,8 +27,10 @@ Ruby try esque awesomeness with the power of a ? mark. The follow is a nil check
 blackKnight.getLegs()?.kick()
 ```
 
-You can also check that what your calling is a function by placing it before the paranthesis.
+You can also check that what your calling is a function by placing it before the parenthesis.
 
 ```coffee
 blackKnight.getLegs().kick?()
-```                                
+```  
+
+Context is confusing me slightly not as bad as I remember being confused in JS though.                              
