@@ -12,4 +12,23 @@ https://github.com/autotelicum/Smooth-CoffeeScript
 http://arcturo.github.com/library/coffeescript/
 
 On a side not I have a fucking terrible time spelling coffee. Dyslexia, its a bitch only stopped by the power of auto
-spellcheckers.
+spellcheckers.  
+
+Oooh la la loops in coffeescript are like python comprehensions. I think I'm in love.
+
+```coffee
+prisoners = ["Roger", "Roderick", "Brian"]
+release prisoner for prisoner in prisoners when prisoner[0] is "R"
+```                                                                
+
+Ruby try esque awesomeness with the power of a ? mark. The follow is a nil check
+
+```coffee
+blackKnight.getLegs()?.kick()
+```
+
+You can also check that what your calling is a function by placing it before the paranthesis.
+
+```coffee
+blackKnight.getLegs().kick?()
+```                                
