@@ -26,5 +26,5 @@ accepts headers just like with any REST request. e.g we could give information a
 ````
 
 In my web applications I often have full new pages and then fragments that
-return just the form. We use the request headers for this. I its an ajax request return the AHAH, if its not return a full
+return just the form. We use the request headers for this. If its an ajax request return the AHAH, if its not return a full
 view page.  
