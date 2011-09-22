@@ -21,9 +21,13 @@ accepts headers just like with any REST request. e.g we could give information a
 {
   title: "Post Tile",
   body: "Post Body",
-  author: "Author Name"
+  author: "Author Name",
+  categories: ['future', 'dev', 'design']
 }
-````
+````  
+
+A client could fill in the data and then post. Voila. This is especially useful for instance if there is options available
+like for categories above.
 
 In my web applications I often have full new pages and then fragments that
 return just the form. We use the request headers for this. If its an ajax request return the AHAH, if its not return a full
