@@ -1,0 +1,1 @@
+I like the way spine seems to be constructed very get out of our way but more convention heavy than backbone.
