@@ -22,13 +22,15 @@ Sections
 
 # The gist of it. 
 
-I've already said some things that brought you here now 'll try and say some things that make you stay, but not specifically here. I'd rather like you on the signup page. With DBD I try to trascend the normal arena of flashy and bloated templates full of stuff that keep you away from code. Other products are full of barriers that keep you from digging in and experimenting, from getting your hands dirty and well, breaking stuff. When you do have to touch code its often a dreadful and frustrating experience. The fact is most clubs don't design their products to be dug into and as a result their code is convoluted and very rarely prepared for people who enjoy learning and breaking things.
+I've already said some things that brought you here now 'll try and say some things that make you stay, but not specifically here. I'd rather like you on the signup page. With DBD I try to transcend the normal arena of flashy and bloated templates full of stuff that keep you away from code. 
+
+Other products are full of barriers that keep you from digging in and experimenting, from getting your hands dirty and well, breaking stuff. When you do have to touch code its often a dreadful and frustrating experience. The fact is most clubs don't design their products to be dug into and as a result their code is convoluted and very rarely prepared for people who enjoy learning and breaking things.
 
 DBD templates are designed from the ground up to be broken and modified, to kicked around and blown up. That means; no core bloat, no code lock (to grid specific grid system or extension), and no complicated parameter systems. 
 
 Are template 
 
-Template clubs often operate in a interest protecting fashion pushing away collaborators or potential users. Controlling things allows a club to control the directions they and their community take. I recognize that whats in my best self interest is to allot freedom to allow a organic changing of business. As such I recognize that that I will need to quickly adapt and change to meet the ever evolving demands of the DBD community. I don't know where DBD is going to go but I'm prepared to go there. In the strictest sense I think DBD more than other template club is club for and by its own users.   
+Template clubs often operate in a interest protecting fashion pushing away collaborators or potential users. Controlling things allows a club to control the directions they and their community take. I recognize that whats in my best self interest is to allow freedom to allow a organic changing of business. As such I recognize that that I will need to quickly adapt and change to meet the ever evolving demands of the DBD community. I don't know where DBD is going to go but I'm prepared to go there. In the strictest sense I think DBD more than other template club is club for and by its own users.   
 
 
 %p
