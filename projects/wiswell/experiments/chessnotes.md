@@ -1,0 +1,1 @@
+Display is dumb and really desn't know what is one each square. A move is simple a square to a square. Parses figures out what is being moved.
