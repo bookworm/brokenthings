@@ -7,4 +7,4 @@ _Things are unlikely to make sense to you._
 # License. 
 
 Unless stated otherwise the Copyright is mine, All Rights Reserved. This is not because I've any intents of controlling what you do with my work, I just don't want to be locked into a license. 
-Drop me an e-mail (bookworm.productions@gmail.com) if you find something you're interested in; that you'd like to use, talk, about, steal, borrow etc.
+Drop me an e-mail (k@2052.me) if you find something you're interested in; that you'd like to use, talk, about, steal, borrow etc.
