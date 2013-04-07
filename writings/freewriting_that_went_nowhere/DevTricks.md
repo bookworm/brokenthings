@@ -1,0 +1,4 @@
+Tasks shouldn't just be actionable they should have immediate playable results. You should break things as as possible.
+Contruct your tasks around that idea. There is a tendency to cosnturct foundations and worry about rails actually booting later. Don't do this. Everything you do should be measurable. When you build things that are measurable you end with pieces that work independently. Don't include boilerplate code that keeps your app from functioning. Build it up, at every point it should function. If something is complicated you should mock around or configure around it.
+
+After you have done something, you need something to point to that says hey, I did that!
