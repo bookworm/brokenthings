@@ -1,0 +1,1 @@
+Dot is just lonely circle in a void less world. Dot must find and connect other dots and explore his world. He expands his consciousness.He learns to use color and to control shapes. His enemy is a square. His ultimate goal is to create the universe. Games ends when dot becomes a sun.
